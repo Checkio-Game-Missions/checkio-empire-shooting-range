@@ -1,11 +1,9 @@
-It will be surprising, but we should train our snipers in shooting range.
-On a shooting range, shooters use a wall to practice, trying to hit it from various positions.
+During sniper practice at the shooting range, shooters use a wall as a target and will to hit it from various positions.
 
-Shooters do not have problems with with vertical deviation, so we can use a simplified model for this mission.
-We placed a camera above the shooting range and use 
-[Cartesian coordinates](http://en.wikipedia.org/wiki/Cartesian_coordinate_system) to describe states.
-We know coordinates of wall (target) ends and shooting point.
-And we know the point where is a bullet after a small time.
+The shooters do not have problems with with vertical deviation, so we can use a simplified model for this mission.
+We've placed an ultra high speed camera above the shooting range and will use 
+[Cartesian coordinates](http://en.wikipedia.org/wiki/Cartesian_coordinate_system) map out the trajectories.
+We know coordinates of wall (target) ends and shooting point and we know the point where is a bullet after a small time.
 You should determine the result of the shot.
 
 You are given coordinates for the end-points of the target wall on a grid.
