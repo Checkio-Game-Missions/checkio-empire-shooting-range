@@ -13,4 +13,4 @@ then it's 100 points. Awarded points reduce in relation to the distance from the
 An impact on the end of the wall is 0 points and a missed shot deducts a point (-1).
 The result should be [rounded to the nearest integer](http://en.wikipedia.org/wiki/Rounding#Rounding_to_integer).
 
-![Wall](bullet-wall.svg)
+![Wall](shooting.svg)
