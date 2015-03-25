@@ -8,7 +8,7 @@ from tests import TESTS
 api.add_listener(
     ON_CONNECT,
     CheckiOReferee(tests=TESTS,
-                   function_name="shot",
+                   DEFAULT_FUNCTION_NAME="shot",
                    cover_code={
                        "python-3": unwrap_args,
                        "python-27": unwrap_args,
