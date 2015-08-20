@@ -13,4 +13,5 @@ if (!global.is_checking) {
     assert.equal(shot([2, 2], [5, 7], [11, 2], [8, 4]), 29, "3th case");
     assert.equal(shot([2, 2], [5, 7], [11, 2], [9, 5]), -1, "4th case");
     assert.equal(shot([2, 2], [5, 7], [11, 2], [10.5, 3]), -1, "4th case again");
+    console.log("Earn cool rewards by using the 'Check' button!");
 }
